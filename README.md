@@ -1,8 +1,7 @@
 # Telecom-Churn-Prediction
 
 ## Live Demo
-https://telecom-churn-prediction-mzt4bvqlxjt3kwzdw59bzm.streamlit.app/
-
+https://telecom-churn-prediction-4kd5eopcqno8jxwgbnvegh.streamlit.app/
 ## Problem Statement
 This project predicts whether a telecom customer is likely to churn (leave the service).
 
